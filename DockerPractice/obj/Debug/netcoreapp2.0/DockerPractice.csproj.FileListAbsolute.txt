@@ -1,0 +1,11 @@
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\obj\Debug\netcoreapp2.0\DockerPractice.csproj.CoreCompileInputs.cache
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\obj\Debug\netcoreapp2.0\DockerPractice.AssemblyInfoInputs.cache
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\obj\Debug\netcoreapp2.0\DockerPractice.AssemblyInfo.cs
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\bin\Debug\netcoreapp2.0\DockerPractice.deps.json
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\bin\Debug\netcoreapp2.0\DockerPractice.runtimeconfig.json
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\bin\Debug\netcoreapp2.0\DockerPractice.runtimeconfig.dev.json
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\bin\Debug\netcoreapp2.0\DockerPractice.dll
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\bin\Debug\netcoreapp2.0\DockerPractice.pdb
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\obj\Debug\netcoreapp2.0\DockerPractice.csprojAssemblyReference.cache
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\obj\Debug\netcoreapp2.0\DockerPractice.dll
+G:\AspnetCore_Application\Docker\DockerPractice\DockerPractice\obj\Debug\netcoreapp2.0\DockerPractice.pdb
